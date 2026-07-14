@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jiangmen-septic-cleaning.peiqirui.com/sitemap.xml
